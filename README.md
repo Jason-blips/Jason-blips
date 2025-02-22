@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zxn515@york.ac.uk**
 
-- 📄 Know about my experiences [https://github.com/Jason-blips](https://github.com/Jason-blips)
+- 📄 Know about my experiences [https://github.com/Jason-blips](https://github.com/Jason-blips](https://github.com/Jason-blips/Jason-blips/blob/948046e5e7a4acb2a81e98d0086a6ab3ace62458/RESUME.pdf)
 
 - ⚡ Fun fact **Ice Hockey**
 
