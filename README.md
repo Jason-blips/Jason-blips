@@ -1,18 +1,17 @@
 <div align="center">
 
-# **Zhuoran Fu**  
-### 付卓然
+# Hi, I'm Jason
 
 *Computer Science · University of York*  
 *Machine Learning · Full-Stack · Systems*
 
 <br>
 
-[![Website](https://img.shields.io/badge/jiangluo.uk-0d1117?style=flat-square&labelColor=161b22&color=8b949e)](https://jiangluo.uk)
+[![Website](https://img.shields.io/badge/Website-jiangluo.uk-0d1117?style=flat-square&labelColor=161b22&color=8b949e)](https://jiangluo.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-Jason--blips-0d1117?style=flat-square&labelColor=161b22&logo=github&color=8b949e)](https://github.com/Jason-blips)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&labelColor=161b22&logo=linkedin&color=8b949e)](https://linkedin.com/in/zhuoran-fu-932867352)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=flat-square&labelColor=161b22&logo=kaggle&color=8b949e)](https://kaggle.com/zhuoranfu)
-[![Email](https://img.shields.io/badge/zxn515%40york.ac.uk-0d1117?style=flat-square&labelColor=161b22&logo=minutemailer&color=8b949e)](mailto:zxn515@york.ac.uk)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&labelColor=161b22&logo=minutemailer&color=8b949e)](mailto:zxn515@york.ac.uk)
 
 </div>
 
@@ -36,8 +35,8 @@ React · Python · Machine Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jason-blips&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&line_height=24" alt="Stats" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-blips&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Langs" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jason-blips&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&line_height=24" width="400" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-blips&layout=compact&theme=dark&hide_border=true&langs_count=6" width="360" alt="Langs"/>
 
 </div>
 
