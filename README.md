@@ -1,6 +1,6 @@
 # Hi, I'm Jason
 
-Computer Science · University of York · Machine Learning & Full-Stack
+Computer Science · University of York · Artificial Intelligence
 
 [Website](https://jiangluo.uk) · [GitHub](https://github.com/Jason-blips) · [LinkedIn](https://linkedin.com/in/zhuoran-fu-932867352) · [Kaggle](https://kaggle.com/zhuoranfu) · [Email](mailto:zxn515@york.ac.uk)
 
@@ -23,9 +23,14 @@ Building with **React**, **Python**, and **ML**. Currently into [March Machine L
 
 ## Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jason-blips&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jason-blips&bg_color=0d1117&border_color=21262d&color=58a6ff&area=true&area_color=238636&line=39d353&point=39d353&title_color=c9d1d9&hide_border=true" width="100%" alt="Contribution graph"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jason-blips&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true" width="400" alt="Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-blips&layout=compact&theme=dark&hide_border=true&langs_count=6" width="360" alt="Top languages"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jason-blips&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&border_radius=8&icon_color=58a6ff" width="400" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-blips&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=8" width="360" alt="Top languages"/>
+
+</div>
 
 ---
 
