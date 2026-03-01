@@ -6,29 +6,15 @@ Computer Science · University of York · Artificial Intelligence
 
 ---
 
+## Current
 
-
----
-
-## Pinned
-
-|  |  |
-|:---|:---|
-| **[Jason-blips.github.io](https://github.com/Jason-blips/Jason-blips.github.io)** | Personal site — Jekyll, minimal theme. |
-| *More on* [github.com/Jason-blips](https://github.com/Jason-blips?tab=repositories) |  |
-
----
-
-## Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jason-blips&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jason-blips&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true" width="400" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-blips&layout=compact&theme=dark&hide_border=true&langs_count=6" width="360" alt="Top languages"/>
-
-</div>
+- **Research Intern, RTDS Lab** — working on *Lifelong learning for autonomous robots* and related topics:
+  - Motion and path planning in dynamic environments
+  - Optimisation-based and deep learning approaches
+  - Bio-inspired robotics and adaptive control
+  - Multi-sensory integration and human-robot collaboration
+- Our research is interdisciplinary, combining **computer science**, **control engineering**, and **AI** to develop the next generation of autonomous systems.
+- Built a **lightweight accounting Android App**: [app.jiangluo.uk](https://app.jiangluo.uk)
 
 ---
 
