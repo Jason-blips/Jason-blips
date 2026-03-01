@@ -1,4 +1,4 @@
-# Hi, I'm Jason
+# Hi, I'm Zhuoran Fu
 
 Computer Science · University of York · Artificial Intelligence
 
@@ -8,13 +8,13 @@ Computer Science · University of York · Artificial Intelligence
 
 ## Current
 
-- **Research Intern, RTDS Lab** — working on *Lifelong learning for autonomous robots* and related topics:
-  - Motion and path planning in dynamic environments
-  - Optimisation-based and deep learning approaches
-  - Bio-inspired robotics and adaptive control
-  - Multi-sensory integration and human-robot collaboration
-- Our research is interdisciplinary, combining **computer science**, **control engineering**, and **AI** to develop the next generation of autonomous systems.
-- Built a **lightweight accounting Android App**: [app.jiangluo.uk](https://app.jiangluo.uk)
+- **Research Intern, RTDS Lab** — lifelong learning for autonomous robots and related work
+- Motion and path planning in dynamic environments
+- Optimisation-based and deep learning approaches
+- Bio-inspired robotics and adaptive control
+- Multi-sensory integration and human-robot collaboration
+- Interdisciplinary research combining **computer science**, **control engineering**, and **AI** for the next generation of autonomous systems
+- Built lightweight accounting Android app **[Tally Drop 落记](https://app.jiangluo.uk)**
 
 ---
 
