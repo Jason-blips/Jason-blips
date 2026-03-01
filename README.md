@@ -8,11 +8,11 @@ Computer Science · University of York · Artificial Intelligence
 
 ## Current
 
-- **Research Intern, RTDS Lab** — lifelong learning for autonomous robots and related work
-- Motion and path planning in dynamic environments
-- Optimisation-based and deep learning approaches
-- Bio-inspired robotics and adaptive control
-- Multi-sensory integration and human-robot collaboration
+- **Research Intern, RTDS Lab** — lifelong learning for autonomous robots
+  - Motion and path planning in dynamic environments
+  - Optimisation-based and deep learning approaches
+  - Bio-inspired robotics and adaptive control
+  - Multi-sensory integration and human-robot collaboration
 - Interdisciplinary research combining **computer science**, **control engineering**, and **AI** for the next generation of autonomous systems
 - Built lightweight accounting Android app **[Tally Drop 落记](https://app.jiangluo.uk)**
 
@@ -27,6 +27,7 @@ Computer Science · University of York · Artificial Intelligence
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **AI & Machine Learning**
@@ -40,7 +41,9 @@ Computer Science · University of York · Artificial Intelligence
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-Flask · Firebase · React Native
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
